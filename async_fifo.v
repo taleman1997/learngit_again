@@ -4,7 +4,7 @@
 // Create Date: 2021/07/13 
 // Design Name: Asynchronized fifo design
 // Module Name: fifo_async
-// Description: for git version 2
+// Description: for git version 2 for branch dev here
 // 
 // Dependencies: dualport_ram_async, push_interface, pop_interface
 // 
